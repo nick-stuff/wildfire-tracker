@@ -1,0 +1,17 @@
+nav {
+  background: none;
+  color: #fff;
+  padding: 0px;
+}
+
+nav a {
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  margin-right: 30px;
+}
+
+ul {
+  list-style: none;
+}
+

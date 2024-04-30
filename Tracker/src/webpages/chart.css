@@ -1,0 +1,19 @@
+
+.container {
+  float: left;
+  margin-bottom: 25px;
+  margin-left: 10px;
+}
+
+
+.text {
+  float: right;
+  margin-top: 50px;
+  margin-left: 20px;
+  padding: 10px;
+}
+
+.instructions {
+  padding: 40px;
+  margin-left: 0px;
+}
